@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15c661f8-7ddb-4436-96b1-700a7e673683" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../baitapchuoi/ma quoc gia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapchuoi/validate email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapdieukien/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapdieukien/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapdieukien/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitaptiente/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitaptiente/chuyendoitiente.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bientoantu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bientoantu/khai bao bien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cacdoituongthongdung/lam viec voi string.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cacdoituongthongdung/math.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau4/c08g1-dam.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cautruc if else/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cautruc if else/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cocaro/co ca ro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien/bai 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien/bai 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien/bai 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien/bai 7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien/bai tap 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien/bai tap 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien/luyen tap dieu kien 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien2/bai 10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien2/bai 11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien2/bai 12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien2/bai 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien2/bai 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien2/bai 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien2/bai 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien2/bai 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien2/bai 7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien2/bai 8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien2/bai 9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flashlamp/adam va eva.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/game don gian.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giaithuat/tim gia tri max min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giatritrongmang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giatritrongmang/tao ban co caro do gian.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giatritrongmang/tim gia tri trong mang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goiham/chuyen doi nhiet do.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goiham/feet va metter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goiham/phuong thuc kiem tra so nguyen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goiham/tim gia tri nho nhat cua mang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodfastcheep/good fast cheep.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hamcuamang/bai 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hamcuamang/bai 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hamcuamang/ham co san cua mang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiemtratu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiemtratu/kiem tra tu doi xung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laptrinhhuongdoituong/adam and eva.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laptrinhhuongdoituong/funny cricle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laptrinhhuongdoituong/ngay thang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentapham/bai 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentapham/bai 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentapham/bai 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentapham/bai 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentapham/bai 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentapphanmang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentapphanmang/bai 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentapphanmang/bai 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentapphanmang/bai 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentapphanmang/bai 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentapphanmang/bai 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentapphanmang/bai tap 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mang2/bai 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mang2/bai 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mang2/bai 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mang2/bai 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mang2/bai 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mang2/bai 7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mang2/bai 8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mang2/bai 9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newproject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newproject/cautruc if else.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nguyento/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nguyento/so nguyen to.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sudungtoantu/su dung toan tu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuattoan/tim gia tri min max.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tic tac toe/test 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tictactoe/tic tac toe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglap/bai tap 2 vong lap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglap/bai tap 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglap/bai tap 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglap/bai tap 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglap/bai tap 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglap/bai tap 7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglap/bai tap 8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglap/luyen tap vong lap 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglapfor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglapfor/bai 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglapfor/bai tap 2 vong lap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglapfor/bai tap 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglapfor/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglapfor/sinh bang cuu chuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglapfor/vong lap while.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglapfor2/bai 3.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglapfor2/bai 3.5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglapfor2/bai 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglapfor2/bai tap 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglapfor2/bai tap 3.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglapfor2/bai tap 3.4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/on tap toan tu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ processConfirm/processConfirm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ processConfirm/processConfirm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/HTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../array/array.html" beforeDir="false" afterPath="$PROJECT_DIR$/../array/array.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../console.log/console.log.html" beforeDir="false" afterPath="$PROJECT_DIR$/../console.log/console.log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../console_log/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../console_log/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../console_log/console.html" beforeDir="false" afterPath="$PROJECT_DIR$/../console_log/console.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../document/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../document/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../document/document.html" beforeDir="false" afterPath="$PROJECT_DIR$/../document/document.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise/exercise.html" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise/exercise.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ham_alert/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ham_alert/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ham_alert/ham_alert.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ham_alert/ham_alert.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laptrinhhuongdoituong/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laptrinhhuongdoituong/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luyentapmang/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../luyentapmang/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maytinh/maytinh.html" beforeDir="false" afterPath="$PROJECT_DIR$/../maytinh/maytinh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse/reverse.html" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse/reverse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tape/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tape/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tape/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tape/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variable value/value.html" beforeDir="false" afterPath="$PROJECT_DIR$/../variable value/value.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variable value/value_table.html" beforeDir="false" afterPath="$PROJECT_DIR$/../variable value/value_table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variable value/variable value.html" beforeDir="false" afterPath="$PROJECT_DIR$/../variable value/variable value.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="629879235">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="js" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="16" />
+          <entry key="js" value="499" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="16" />
+          <entry key="JavaScript" value="499" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/c08g1-dam.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baitap2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/baitap2.html" />
+        <option value="$PROJECT_DIR$/c08g1-dam.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="975" />
+    <option name="y" value="125" />
+    <option name="width" value="800" />
+    <option name="height" value="760" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15c661f8-7ddb-4436-96b1-700a7e673683" name="Default Changelist" comment="" />
+      <created>1537788119918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537788119918</updated>
+      <workItem from="1537788121375" duration="3856000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3856000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09914078" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/baitap2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c08g1-dam.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
